@@ -3,11 +3,10 @@ mariadb docker image for rpi, based on jsurf/rpi-raspbian
 
 This is a port of the official mariadb image https://hub.docker.com/_/mariadb/ for raspberry pi/armhf. It always uses the latest mariadb version contained in raspbian, which is currently mariadb 10 in jessie and mariadb 10.1 in stretch
 
-Available tags:
+Used Image Base
+arm32v7/debian:buster-slim
 
-* jsurf/rpi-raspbian:latest - raspbian jessie - mariadb 10 
-* jsurf/rpi-raspbian:jessie - raspbian jessie - mariadb 10 
-* jsurf/rpi-raspbian:stretch - raspbian stretch - mariadb 10.1 
+Available tags:
 
 
 # What is MariaDB?
