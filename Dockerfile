@@ -1,4 +1,4 @@
-FROM arm32v7/debian:stable
+FROM arm32v7/debian:stable-20210511-slim
 
 ENV LANG C.UTF-8
 ENV TZ America/Buenos_Aires
