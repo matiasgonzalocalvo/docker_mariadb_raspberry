@@ -1,4 +1,4 @@
-FROM arm32v7/debian:latest
+FROM arm32v7/debian:stable
 
 ENV LANG C.UTF-8
 ENV TZ America/Buenos_Aires
